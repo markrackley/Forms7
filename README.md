@@ -1,5 +1,3 @@
-<p><span style="width: 150px; float: right;"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=24UHF7HHK69QY" target="_blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="" /></a> <br /> Forms 7 is totally free, but my time is not. Please help encourage me to expand and support this great tool. All donations go towards the organization of <a href="http://www.sharepointalooza.org" target="_blank">http://www.sharepointalooza.org</a></span></p>
-<p><strong style="font-size: 11px;">Project Description</strong></p>
 <p>Forms7 is a lightweight InfoPath alternative that uses a jQuery plugin that allows users to easily create forms for SharePoint 2007/2010/2013 using basic HTML.</p>
 <p><strong>Features</strong></p>
 <p>Forms7 comes with many features that can add robustness and usability to your forms including:</p>
